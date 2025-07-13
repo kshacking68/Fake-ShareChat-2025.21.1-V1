@@ -39,7 +39,7 @@ Fake ShareChat 2025.21.1
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
